@@ -1,0 +1,10 @@
+- Implementar um sistema de controle de professores com uma tela de cadastro de professores (novo, salvar e cancelar)
+
+- Atributos dos objetos Professor
+* Código
+* Nome
+* Endereço
+* Cidade
+* Telefone
+* Titulação (especialista, mestre. doutor...)
+* Área (Administração, computação...)
